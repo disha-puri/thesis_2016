@@ -1,0 +1,17 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdftex 2016.3.15)  15 MAR 2016 11:19
+entering extended mode
+**"C:/Users/disha/workspace-research/mcecs repository/papers/thesis_2016/paper/
+psu-thesis.sty"
+
+("C:/Users/disha/workspace-research/mcecs repository/papers/thesis_2016/paper/p
+su-thesis.sty"
+! Undefined control sequence.
+l.12 \usepackage
+                {amsmath}      % For \copyright in title page
+? 
+! Emergency stop.
+l.12 \usepackage
+                {amsmath}      % For \copyright in title page
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
